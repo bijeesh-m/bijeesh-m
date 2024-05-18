@@ -1,10 +1,14 @@
 # Hi there, I'm Bijeesh 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create and share open-source projects.
+ ![1-1716021363465_animation](https://github.com/bijeesh-m/bijeesh-m/assets/140145200/bf1cbeb6-a460-411d-a5c9-1880fca76de4)
+ 
+ <br/> Welcome to my GitHub profile! I'm a passionate developer who loves to create and share open-source projects. 
+
 
 ![GitHub followers](https://img.shields.io/github/followers/bijeesh-m?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bijeesh-m?style=social)
 
 ## About Me
+
 
 - 🔭 I’m currently working on **[Blog's Up](https://github.com/bijeesh-m/blog-s_up)**
 - 🌱 I’m currently learning **Next.js**
