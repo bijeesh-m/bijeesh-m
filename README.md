@@ -34,7 +34,6 @@
 
 ## 🔥 Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bijeesh)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bijeesh-m)](https://git.io/streak-stats)
 
 ⭐️ From [Bijeesh](https://github.com/bijeesh-m)
