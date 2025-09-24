@@ -8,8 +8,8 @@
 ## About Me
 
 
-- 🔭 I’m currently working on **[Blog's Up](https://github.com/bijeesh-m/blog-s_up)**
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **[FunChat](https://github.com/bijeesh-m/funchat)**
+- 🌱 I’m currently learning **Nest**
 - 👯 I’m looking to collaborate on **Fullstack-Projects**
 - 💬 Ask me about **React**
 - 📫 How to reach me: **bijeeshh.m@gmail.com**
